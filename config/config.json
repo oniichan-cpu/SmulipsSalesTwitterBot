@@ -1,0 +1,17 @@
+{
+  "symbol": "smulips",
+  "twitter_credentials": {
+    "bearer_token": "AAAAAAAAAAAAAAAAAAAAAOsWeQEAAAAA1XoZ2wiEkFjq8U5PYZUez40Dyic%3D7pVGVj4jFQclV4Ns4I93bNcdup1MxjtTM129fIjVbKm2SQ2YLH",
+    "consumer_key": "GN8eyLd66wuhO1OSFp5hnKJ0Z",
+    "consumer_secret": "tOnQUS9eHif64UJSgE7rpN1XVBEwUrJDh7bXSKa1QyV97ROyfU",
+    "access_token": "1507576053392605186-niYjNqEgZoRfhvDbj6rvv6qQY1WLK5",
+    "access_token_secret": "c3kldIfHmIagN8L2f3GkrgvsGSpj27B2E69aF4i7Byy6u"
+  },
+  "collection": "0xdabf2de52037b517097fd999c173c447784806b2",
+  "tweet_text": "[-n] #[-t] \nSold for\n[-f]\n[-p]\n\n[-l]\n\n[-h] #trovebytreasure",
+  "fiat_currency": "USD",
+  "TPS": 2,
+  "refresh_delay": 0.1,
+  "activities_per_call": 1000,
+  "use_img_on_chain": false
+}
