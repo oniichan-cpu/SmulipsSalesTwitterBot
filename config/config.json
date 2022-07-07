@@ -12,6 +12,6 @@
   "fiat_currency": "USD",
   "TPS": 2,
   "refresh_delay": 0.1,
-  "activities_per_call": 1000,
+  "activities_per_call": 500,
   "use_img_on_chain": false
 }
